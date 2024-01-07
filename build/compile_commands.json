@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/portg/Desktop/Code/CPP/unix_directory_analyzer/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++20 -o CMakeFiles/unix_directory_analyzer.dir/main.cpp.o -c /Users/portg/Desktop/Code/CPP/unix_directory_analyzer/main.cpp",
+  "file": "/Users/portg/Desktop/Code/CPP/unix_directory_analyzer/main.cpp"
+}
+]
